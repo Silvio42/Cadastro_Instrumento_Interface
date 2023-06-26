@@ -19,3 +19,5 @@ Comandos:
 "git remote" add origin https://github.com/Silvio42/Cadastro_Instrumento_Interface.git -> Indicar o repo da nuvem para seu repo local
 
 "git push --set-upstream origin master " -> Enviar o push para o git sem ter criado a brach master
+
+"git rm <nome do arquivo>" -> Deletar um arquivo desnecessário
