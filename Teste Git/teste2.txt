@@ -21,3 +21,5 @@ Comandos:
 "git push --set-upstream origin master " -> Enviar o push para o git sem ter criado a brach master
 
 "git rm <nome do arquivo>" -> Deletar um arquivo desnecessário
+
+"git log" -> para aparece os logs do projeto, utilize a tecla "Q" para sair dos logs
