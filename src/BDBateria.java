@@ -1,11 +1,4 @@
-//Nome: Silvio Jorge de Oliveira -  RA: 2052261
-
-/*
-Uso EFETIVO da  Collection List/ArrayList
-Que o sistema a utilize List/ArrayList como base de dados;
-A(s) Collection(s) deve(m) estar classes em separada(s) a dos Formulários. O(s) nome(s) desta(s) classe(s) deverá(ão) se iniciar com as letras "BD";
-Mínima e obrigatoriamente deve conter métodos para as 4 operações básicas na(s) Collection(s): inserção, consulta, alteração e exclusão. 
-*/
+//Desenvolvedor: Silvio Jorge de Oliveira
 
 import java.util.List;
 import java.util.ArrayList;
