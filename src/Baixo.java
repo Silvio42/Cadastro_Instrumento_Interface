@@ -1,4 +1,4 @@
-//Nome: Silvio Jorge de Oliveira -  RA: 2052261
+//Desenvolvedor: Silvio Jorge de Oliveira
 
 public class Baixo extends Instrumento implements ColocaZeroEmCor {
 
